@@ -6,6 +6,9 @@ It uses awswrangler for performing the Athena Query to get the VPC Flow logs.
 Pandas is used to deal with large data. For graph generation pyvis python module is used.
 KnownIPs list can be passed for the easy analysis.
 
+![image](https://user-images.githubusercontent.com/42441440/190141784-3d77e0fd-a4e3-4576-990d-0fc87d2b3739.png)
+
+Graph will be interactive
 
 
 ## Prerequisite
